@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Olma",
+    "price": 12000
+  },
+  {
+    "name": "Banan",
+    "price": "O'n besh ming"
+  },
+  {
+    "name": "Apelsin",
+    "price": 17000.5
+  },
+  {
+    "name": "Shaftoli",
+    "price": "20000.75"
+  },
+  {
+    "name": "Uzum",
+    "price": 10000
+  },
+  {
+    "name": "Anor",
+    "price": "O'n sakkiz ming"
+  },
+  {
+    "name": "Gilos",
+    "price": 25000.99
+  },
+  {
+    "name": "Nok",
+    "price": "22000.50"
+  }
+]
